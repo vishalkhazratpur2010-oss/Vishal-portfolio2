@@ -1,0 +1,155 @@
+body{
+    background-image: url("hanuman\ ji.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+div{
+    word-spacing: 8px;
+    font-size: x-large;
+    }
+    #vi2{
+    a:active{
+            color: red;
+        }
+    }
+#div2{
+    margin: 400px;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: orange;
+}
+#vi1{
+    color:greenyellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    margin: 2px;
+    display: inline;
+    word-spacing: 2px;
+    
+}
+#iddiv{
+    align-items: center; 
+    background-color: white;
+    height: 2500px;
+    width: 100%;
+    background-size: cover;
+    font-size:xx-large;
+    text-align: right;
+}
+#para{
+    color: red;
+    margin-top: 1px;
+}
+#para2{
+    text-align: right;
+    word-spacing: 1px;
+    color: black; 
+    margin-top: 60px;
+    margin-right: 60px;
+}
+ img{
+    width: 200x;
+    display: block;
+    border-radius: 100%;
+    width:  250px;
+    height: 250px;
+    float: left;
+    margin-left: 30px;
+
+    margin-top: 40px ;
+    position: relative; 
+}
+#img2{
+    margin-top: 70px;
+    float: right;
+    height: 400px;
+    width: 600px;
+}
+#img3{
+    margin-top: 1px;
+}
+
+#para3{
+    margin-top: 100px;
+    align-items: center;
+    font-size: xx-large;
+}
+#para4{
+    margin-top: 100px;
+
+}
+#para5{
+    margin-top: 90px;
+
+}
+#para6{
+    margin-top: 50px;
+    margin-right: 50px;
+
+}
+
+li{
+    margin-left: 80px;
+}
+#para7{
+    margin-top: 100px;
+}
+#img4{
+    margin-top: 60px;
+    float: left;
+    height: 300px;
+    width: 300px;
+    margin-left: 70px;
+}
+#img5{
+    margin-top: 60px;
+    float: right;
+    height: 300px;
+    width: 300px;
+    margin-right: 110px;
+}
+#img6{
+    margin-top: 60px;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+}
+    #img7{
+
+    margin-top: 50px;
+    margin-left: 150px;
+}
+#para8{
+    margin-top: 500px;
+}
+
+#para9{
+    margin-top: 400px;
+    align-items: center;
+}
+#para10{
+    margin-top: 2pxS;
+    font-size: small;
+}
+#para14{
+    margin-top: 90px;
+    color: blue;
+    background-color:lightsalmon;
+    height: 270px;
+    width: 100%;
+}
+#para11{
+    text-align: left;
+    
+    margin-left: 16px;
+}
+#para12{
+    align-items: center;
+    margin-top: 90px;
+}
+#para13{
+    margin-right: 30px;
+    text-align: right;
+    margin-right: 16px;
+}
